@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e86d1e57-9a48-429d-98e7-1a7bc066369e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X4yAXbVYJAIvT1MGCYTVb4gUbJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emobilis\PhpstormProjects\studio" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Emobilis\PhpstormProjects\studio\resources" />
+      <recent name="C:\Users\Emobilis\PhpstormProjects\studio" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e86d1e57-9a48-429d-98e7-1a7bc066369e" name="Default Changelist" comment="" />
+      <created>1580319518484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580319518484</updated>
+      <workItem from="1580319523117" duration="41000" />
+      <workItem from="1580319622530" duration="3367000" />
+      <workItem from="1580323080038" duration="8568000" />
+      <workItem from="1580405029198" duration="2217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="292" y="118" key="FileChooserDialogImpl" timestamp="1580330453287">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="292" y="118" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1580330453287" />
+    <state x="13" y="0" key="SettingsEditor" timestamp="1580319531594">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="13" y="0" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1580319531594" />
+    <state x="207" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1580405030322">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="207" y="186" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1580405030322" />
+  </component>
+</project>
